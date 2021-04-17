@@ -1,2 +1,3 @@
 Hello!
 This is test changes...
+3 строчка текста
